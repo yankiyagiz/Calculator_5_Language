@@ -1,4 +1,7 @@
 # Calculator_5_Language
+
+YANKI YAĞIZ OZAN 231101059
+
 basic calculator written with 5 different programming languages
 
 WHAT THE CODES DOES-----------------
