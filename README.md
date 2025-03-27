@@ -30,3 +30,13 @@ Prolog:-------
 swipl
 
 ?- [calculator_prolog].
+
+
+Ada-----------
+
+gnatmake calculator.adb
+
+./calculator
+
+
+
