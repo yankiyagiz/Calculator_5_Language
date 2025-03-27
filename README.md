@@ -17,7 +17,7 @@ rustc calculator.rs
 
 Perl:----------
 
-perl calculator.pl
+perl calculator_perl.pl
 
 
 Scheme:--------
@@ -29,6 +29,4 @@ Prolog:-------
 
 swipl
 
-?- [calculator].
-
-?- calculator.
+?- [calculator_prolog].
